@@ -8,4 +8,15 @@
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 5vw;
   text-align: center;
+  padding: 100px 100px;
+}
+#map{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 60vh;
+
+  
 }
